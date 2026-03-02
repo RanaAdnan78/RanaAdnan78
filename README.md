@@ -12,6 +12,7 @@ Goal: To become a versatile developer and contribute to impactful open-source pr
 When I'm not in front of a screen, I stay busy with a few things I love:
 
 📜 History: My favorite hobby! I enjoy diving deep into the past to understand the world today.
+
 🕌 Islam: A central part of my life, focusing on love, peace, and continuous self-improvement.
 📚 Reading: Always looking for a good book to expand my horizons.
 🏏 Cricket & 🏸 Racket Sports: Staying active on the field or the court.
