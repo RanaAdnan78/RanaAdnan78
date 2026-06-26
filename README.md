@@ -1,24 +1,57 @@
-👋 Hi, I'm Rana Adnan!
+# Hi, I'm Rana Adnan 👋
 
-🎓 CS Student at UET Pakistan
-I am a passionate Computer Science student dedicated to mastering programming languages and understanding the inner workings of computers. I love building things that solve problems and constantly push myself to learn new technologies.
+CS Student at **UET Lahore** — building things, breaking things, learning everything.
 
-🛠 Skills & Interests
-Languages: Learning C++, Python, and Web Development.
-Systems: Exploring how computers process data and manage resources.
-Goal: To become a versatile developer and contribute to impactful open-source projects.
+---
 
-📖 Beyond the Code
-When I'm not in front of a screen, I stay busy with a few things I love:
+## 🛠 What I Work With
 
-📜 History: My favorite hobby! I enjoy diving deep into the past to understand the world today.
+```cpp
+Languages  →  C++  |  Python  |  Dart
+Mobile     →  Flutter
+Web        →  Laravel  |  React  |  PHP
+Database   →  MySQL
+```
 
-🕌 Islam: A central part of my life, focusing on love, peace, and continuous self-improvement.
-📚 Reading: Always looking for a good book to expand my horizons.
-🏏 Cricket & 🏸 Racket Sports: Staying active on the field or the court.
-📈 My GitHub Stats
-🤝 Let's Connect!
-I'm always open to collaborating on projects or just chatting about history and tech.
-Learning: Currently gripping the essentials of software development.
+---
 
-Ask me about: History, Islamic culture, or the latest cricket match!
+## 🚀 Currently
+
+- 📱 Building **VELOX** — a full-stack Flutter + Laravel e-commerce app
+- 🧠 Learning **DSA in C++** — targeting Big Tech interviews
+- ☁️ Exploring **SaaS** development with Laravel + React
+
+---
+
+## 📦 Projects
+
+| Project | Stack | Description |
+|--------|-------|-------------|
+| VELOX | Flutter + Laravel + MySQL | Premium footwear e-commerce platform |
+| SpeedGet | C# + SQLite | IDM alternative with parallel downloading |
+| MM Broast | C# + MySQL | Restaurant management system |
+
+---
+
+## ⚡ Beyond the Code
+
+- 🏏 Cricket & 🏸 Badminton
+- 📜 History buff
+- 🕌 Islam — love, peace, self-improvement
+- 📚 Always reading something
+
+---
+
+## 📊 GitHub Stats
+
+![Rana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RanaAdnan&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RanaAdnan&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## 🤝 Let's Connect
+
+Always open to collaborating, learning, or just talking cricket & history.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/rana-adnan)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/RanaAdnan)
