@@ -44,7 +44,7 @@ Database   →  MySQL
 
 ## 📊 GitHub Stats
 
-![Rana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RanaAdnan&show_icons=true&theme=tokyonight&hide_border=true)
+![Rana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RanaAdnan78&show_icons=true&theme=tokyonight&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RanaAdnan&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
@@ -54,4 +54,4 @@ Database   →  MySQL
 Always open to collaborating, learning, or just talking cricket & history.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/rana-adnan)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/RanaAdnan)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/RanaAdnan78)
